@@ -7,7 +7,9 @@
 - 💬 Me pergunte sobre qualquer coisa
 - ⚡ Curiosidade tenho 21 anos 
 -->
-
+<div align="">
+<img src="https://user-images.githubusercontent.com/96083134/148791638-1b5b95f8-9476-4e96-8a80-4700257bee22.png" width="100px" />
+</div>
 <div align="center">
   <a href="https://github.com/plucasmendonca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plucasmendonca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
