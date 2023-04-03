@@ -2,10 +2,10 @@
 
 
 - 🔭 Atualmente não possuo trabalho.
-- 📕 Cursando o 2º semestre de Ciências da Computação.
+- 📕 Cursando o 4º semestre de Ciências da Computação.
 - 🏫 Faculdade:Instituto de Educação Superior de Brasília (IESB)
 - 💬 Me pergunte sobre qualquer coisa
-- ⚡ Curiosidade tenho 21 anos 
+- ⚡ Curiosidade tenho 22 anos 
 -->
 <div align="center">
   <a href="https://github.com/plucasmendonca">
