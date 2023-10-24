@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente faço estágio no Ministério do Meio Ambiente.
-- 📕 Cursando o 4º semestre de Ciências da Computação.
+- 📕 Cursando o 5º semestre de Ciências da Computação.
 - 🏫 Faculdade:Instituto de Educação Superior de Brasília (IESB)
 - 💬 Me pergunte sobre qualquer coisa
 - ⚡ Curiosidade tenho 22 anos 
