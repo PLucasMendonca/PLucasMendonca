@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Mendonça
 
 
-- 🔭 Atualmente faço estágio no Ministério do Meio Ambiente.
-- 📕 Cursando o 6º semestre de Ciências da Computação.
+- 🔭 Atualmente faço estágio na Sempre Técnologia.
+- 📕 Cursando o 7º semestre de Ciências da Computação.
 - 🏫 Faculdade:Instituto de Educação Superior de Brasília (IESB)
 - 💬 Me pergunte sobre qualquer coisa
 - ⚡ Curiosidade tenho 23 anos 
