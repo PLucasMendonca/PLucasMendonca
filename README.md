@@ -25,6 +25,10 @@
   <img src="https://user-images.githubusercontent.com/96083134/148793580-649c59b5-c20c-4204-984d-c2b2db6dfc77.png" width="200px" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake.svg" width="100%">
+</div>
+
 ### 🌍 Conecte-se comigo  
 <div> 
   <a href="https://instagram.com/lucas_s.mendonca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,10 +36,6 @@
   <a href="https://discord.gg/qvprpCgR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:p.lucas.santos.mendonca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/luukistar88" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/PLucasMendonca/PLucasMendonca/output/github-contribution-grid-snake.svg)
 </div>
 
 ### 📚 Cursos e Projetos
