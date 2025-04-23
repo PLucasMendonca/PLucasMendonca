@@ -37,3 +37,6 @@
 <div align="center">
   ![Snake animation](https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+### 📚 Cursos e Projetos
+Todos os tipos de cursos que estarei fazendo serão compartilhados aqui!
