@@ -33,5 +33,8 @@
 
 
 ![snake gif](https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ![snake gif](https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![snake gif](https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake.gif))
 
