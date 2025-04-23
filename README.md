@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  ![snake animation](https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/PLucasMendonca/PLucasMendonca/output/github-contribution-grid-snake.svg)
 </div>
 
 ### 📚 Cursos e Projetos
