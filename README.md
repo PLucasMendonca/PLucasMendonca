@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Lucas Mendonça
 
 
-- 🔭 Atualmente faço estágio na Sempre Técnologia.
-- 📕 Cursando o 7º semestre de Ciências da Computação.
+- 🔭 Atualmente estou a procura de um emprego focado na área de Programação
+- 📕 Cursando o 8º semestre de Ciências da Computação.
 - 🏫 Faculdade:Instituto de Educação Superior de Brasília (IESB)
 - 💬 Me pergunte sobre qualquer coisa
-- ⚡ Curiosidade tenho 23 anos 
+- ⚡ Curiosidade tenho 24 anos 
 -->
 <div align="center">
   <a href="https://github.com/plucasmendonca">
@@ -30,9 +30,11 @@
       <a href = "mailto:p.lucas.santos.mendonca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/luukistar88" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PLucasMendonca/PLucasMendonca/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PLucasMendonca/PLucasMendonca/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/PLucasMendonca/PLucasMendonca/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
