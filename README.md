@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Mendonça 👋
 
 - 🔭 Atualmente estou à procura de um emprego na área de Programação  
-- 📕 Cursando o 8º semestre de Ciências da Computação  
+- 📕 Formado em Ciências da Computação 
 - 🏫 Faculdade: Instituto de Educação Superior de Brasília (IESB)  
 - 💬 Fique à vontade para me perguntar sobre qualquer assunto!  
 - ⚡ Curiosidade: Tenho 24 anos  
