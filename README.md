@@ -20,10 +20,6 @@
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> 
 </div>
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/96083134/148793580-649c59b5-c20c-4204-984d-c2b2db6dfc77.png" width="200px" alt="Imagem decorativa" />
-</div>
-
 <div align="center">
   <img src="https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribuições GitHub" />
 </div>
