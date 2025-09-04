@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/PLucasMendonca/PLucasMendonca/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribuições GitHub" />
+  <img src="https://github.com/PLucasMendonca/PLucasMendonca/blob/output/snake.svg" width="100%" alt="Contribuições GitHub" />
 </div>
 
 ### 🌍 Conecte-se comigo  
